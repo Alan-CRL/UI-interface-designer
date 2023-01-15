@@ -3,13 +3,19 @@
 
 ---
 
-![启动画面](https://pic.imgdb.cn/item/63c3b99abe43e0d30e76a92b.png)
+<div align=center>
+<img src="https://pic.imgdb.cn/item/63c3b99abe43e0d30e76a92b.png"><br>
+<b>启动画面</b>
+</div><br>
 
 ### 完成部分
 
 - 场景尺寸设定 界面：
 
-![场景尺寸设定](https://pic.imgdb.cn/item/63c3b99abe43e0d30e76a921.png)
+<div align=center>
+<img src="https://pic.imgdb.cn/item/63c3b99abe43e0d30e76a921.png"><br>
+<b>场景尺寸设定</b>
+</div><br>
 
 - 主界面（开发中）
 
