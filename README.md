@@ -4,7 +4,7 @@
 ---
 
 <div align=center>
-<img src="screenshot/sign.png"><br>
+<img src="https://pic.imgdb.cn/item/63c3b99abe43e0d30e76a92b.png"><br>
 <b>启动界面</b>
 </div><br>
 
@@ -13,7 +13,7 @@
 - 场景尺寸设定 界面：
 
 <div align=center>
-<img src="screenshot/#1.png"><br>
+<img src="https://pic.imgdb.cn/item/63c3b99abe43e0d30e76a921.png"><br>
 <b>场景尺寸设定</b>
 </div><br>
 
